@@ -21,6 +21,7 @@ Note: If you'd like to compile from source, you'll need to have Raylib and a C++
 This project was inspired by a YouTube tutorial that walked through the development of a basic Pong game. Huge thanks to the tutorial creator for the guidance!
 
 Raylib: https://www.raylib.com/
+
 Tutorial Link: [YouTube Tutorial](https://youtu.be/VLJlTaFvHo4?si=TsQJkaqUGVzwKWSj)
 ## License
 This project is for educational purposes and is released under the MIT License. Feel free to use the code for learning or personal projects, but please give credit to the original tutorial author if you share it!
