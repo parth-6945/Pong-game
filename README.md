@@ -16,7 +16,7 @@ Download the .exe file from the releases.
 
 Run the .exe on your Windows machine.
 
-Make sure Raylib dependencies are included, or install Raylib if necessary.
+Note: No additional dependencies are required; the game should run on any standard Windows system.
 
 Note: If you'd like to compile from source, you'll need to have Raylib and a C++ compiler installed.
 
