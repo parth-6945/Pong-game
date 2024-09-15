@@ -21,7 +21,7 @@ Note: No additional dependencies are required; the game should run on any standa
 Note: If you'd like to compile from source, you'll need to have Raylib and a C++ compiler installed.
 
 ## Credits
-This project was inspired by a YouTube tutorial that walked through the development of a basic Pong game. Huge thanks to the tutorial creator for the guidance!
+This project was inspired by a YouTube tutorial from the Yoututbe channel "Programming With Nick", that walked through the development of a basic Pong game. Huge thanks to the tutorial creator for the guidance!
 
 Raylib: https://www.raylib.com/
 
